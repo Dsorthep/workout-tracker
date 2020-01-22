@@ -9,8 +9,8 @@ Mongo / Mongoose / ExpressJS / NodeJS
 
 Check out the app here: https://det-workout-tracker.herokuapp.com/
 
-![Main](Develop/public/screenshots/workout-tracker-main.png "Main")
+![Main](public/screenshots/workout-tracker-main.png "Main")
 
-![Form](Develop/public/screenshots/workout-tracker-form.png "Form")
+![Form](public/screenshots/workout-tracker-form.png "Form")
 
-![CLI](Develop/public/screenshots/workout-tracker-cli.png "CLI")
+![CLI](public/screenshots/workout-tracker-cli.png "CLI")
